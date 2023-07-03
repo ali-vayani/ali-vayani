@@ -1,12 +1,12 @@
 ### Hey i go by pAsta. I'm a high school senior that's *specialized* in web development and is currently dabbling in app development and ai/ml -- ik, so original. 
 
 What i'm familiar w/
-Web Dev
-- HTML, CSS, JS (obv)
-- React
-- Next.js
-- Tailwind CSS
-- probs other irrelevant things
+  Web Dev
+  - HTML, CSS, JS (obv)
+  - React
+  - Next.js
+  - Tailwind CSS
+  - probs other irrelevant things
 
   App Development
   - React Native
