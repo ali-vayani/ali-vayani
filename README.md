@@ -1,4 +1,4 @@
-### Hey i'm go by pAsta, a high school senior that's "*specialized*" in web development and is currently dabbling in app development and ai/ml -- ik, so original. 
+### Hey i'm pAsta, a high school senior that's "*specialized*" in web development and is currently dabbling in app development and ai/ml -- ik, so original. 
 
 What i'm familiar w/
 
