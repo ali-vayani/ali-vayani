@@ -1,32 +1,18 @@
 ### Hey i'm pAsta, a high school senior that's "*specialized*" in web development and is currently dabbling in app development and ai/ml -- ik, so original. 
 
 What i'm familiar w/
-
-  Web Dev
-  - HTML, CSS, JS (obv)
-  - React
-  - Next.js
-  - Tailwind CSS
-  - probs other irrelevant things
-
-  App Development
-  - React Native
-  - Expo
- 
-  ai/ml
-  - tbh nothing really...
- 
-  other
+  - HTML, CSS (Tailwind CSS), JS (obv)
+  - React, React Native
+  - Next.js, Expo
   - Java
   - C# (WPF specifically)
   - Python
-  - Firebase (idk where to put this)
+  - Firebase
 
   Currently Working on: [Rise](https://github.com/pAsta-kun/Rise)
 
   What i want to learn
   - Rust
-  - [QLoRA](https://github.com/artidoro/qlora)
 <!--
 **pAsta-kun/pAsta-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
