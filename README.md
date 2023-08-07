@@ -1,4 +1,4 @@
-### Hey i'm pAsta, a high school senior that's "*specialized*" in web development and is currently dabbling in app development and ai/ml -- ik, so original. 
+### Hey i'm Ali, also known as pAsta. I'm a high school senior that's mainly into web development but I've been dabbling in app development and ai/ml - ik, so original - alot more recently. 
 
 What i'm familiar w/
   - HTML, CSS (Tailwind CSS), JS (obv)
@@ -9,7 +9,7 @@ What i'm familiar w/
   - Python
   - Firebase
 
-  Currently Working on: [Rise](https://github.com/pAsta-kun/Rise)
+  Currently Working on: bro idek anymore
 
   What i want to learn
   - Rust
