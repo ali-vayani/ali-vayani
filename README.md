@@ -4,7 +4,7 @@ What i'm familiar w/
   - HTML, CSS (Tailwind CSS), JS (obv)
   - React, React Native
   - Next.js, Expo
-  - Java
+  - Java (AP CSA)
   - C# (WPF specifically)
   - Python
   - Firebase
@@ -13,6 +13,8 @@ What i'm familiar w/
 
   What i want to learn
   - Rust
+  - Ruby on Rails (TOP gonna clutch up frfr)
+  - Java db stuff
 <!--
 **pAsta-kun/pAsta-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
