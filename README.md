@@ -14,7 +14,7 @@ What i'm familiar w/
   What i want to learn
   - Rust
   - Ruby on Rails (TOP gonna clutch up frfr)
-  - Java db stuff
+  - Java backend
 <!--
 **pAsta-kun/pAsta-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
