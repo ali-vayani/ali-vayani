@@ -13,12 +13,13 @@ What i'm familiar w/
 
 Busy wit: Learning ML (and school 😭)
 
-  What i wanna learn:
-    - how to code
-    nah but fr...
-    - 3js
-    - rust
-    - reinforcment learning & a bunch more ML stuff
+What i wanna learn:
+  - how to code...
+  
+  nah but fr
+  - 3js
+  - rust
+  - reinforcement learning & a bunch more ML stuff
 
     
 <!--
