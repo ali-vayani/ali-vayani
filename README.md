@@ -1,19 +1,29 @@
-### Hey i'm Ali, also known as pAsta. I'm a high school senior that's mainly into web development but I've been dabbling in app development and ai/ml - ik, so original - a lot more recently. 
+### Hey i'm Ali. i go by pAsta online. i'm a high school senior who's mainly into web/app development but I've been dabbling in ai/ml - ik, so original - a lot more recently.
 
 What i'm familiar w/
-  - HTML, CSS (Tailwind CSS), JS (obv)
+  - HTML, CSS (Tailwind CSS), JS (ofc)
   - React, React Native
   - Next.js, Expo
-  - Java (AP CSA)
+  - Node
+  - Java (AP CSA + GUI)
   - C# (WPF specifically)
   - Python
   - Firebase
+  - MongoDB
 
-  Currently Working on: bro idek anymore
+Busy wit: Learning ML (and school 😭)
 
-  What i want to learn
-  - Rust
-  - more AI and ML stuff 🤓
+  What i wanna learn:
+    - how to code...
+
+
+    
+    nah but fr...
+    - 3js
+    - rust
+    - reinforcment learning & a bunch more ML stuff
+
+    
 <!--
 **pAsta-kun/pAsta-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
