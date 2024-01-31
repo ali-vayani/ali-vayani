@@ -1,4 +1,4 @@
-### Hey i'm Ali. i go by pAsta online. i'm a high school senior who's mainly into web/app development but I've been dabbling in ai/ml - ik, so original - a lot more recently.
+### Hey i'm Ali aka pAsta. i'm a high school senior who's mainly into web/app development but I've been dabbling in ai/ml - ik, so original - a lot more recently.
 
 What i'm familiar w/
   - HTML, CSS (Tailwind CSS), JS (ofc)
