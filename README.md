@@ -1,25 +1,13 @@
-### Hey i'm Ali aka pAsta. i'm a high school senior who's mainly into web/app development but I've been dabbling in ai/ml - ik, so original - a lot more recently.
+<h1 align="center">Hey! I'm Ali</h1>
+<h5 align="center">I'm a freshman at UT Austin majoring in computer science and I love learning from others! </h5>
 
-What i'm familiar w/
-  - HTML, CSS (Tailwind CSS), JS (ofc)
-  - React, React Native
-  - Next.js, Expo
-  - Node
-  - Java (AP CSA + GUI)
-  - C# (WPF specifically)
-  - Python
-  - Firebase
-  - MongoDB
+- 🔭 I’m currently working on [my personal website](https://github.com/pAsta-kun/portfolioWebsite)
 
-Busy wit: Learning ML (and school 😭)
+- 🌱 I’m currently looking to learn about **AI and Machine Learning**
 
-What i wanna learn:
-  - how to code...
-  
-  nah but fr
-  - 3js
-  - rust
-  - reinforcement learning & a bunch more ML stuff
+- 👨‍💻 Soon you'll be able to see my projects on my personal website
+
+- 📫 Feel free to hit me up @ ali.vayani2006@gmail.com
 
     
 <!--
