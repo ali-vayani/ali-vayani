@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ali!</h1>
-<h5 align="center">I'm a freshman at UT Austin majoring in computer science and I love learning from others! </h5>
+<h4 align="center">I'm a freshman at UT Austin majoring in computer science and I love learning from others! </h4>
 
 - 🔭 I’m currently working on [my personal website](https://github.com/pAsta-kun/portfolioWebsite)
 
