@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with
+- 🤖 Exploring Machine Learning and learning PyTorch
 - 💻 Building mobile apps with Expo
 
 <!-- Check out my coding portfolio! -->
