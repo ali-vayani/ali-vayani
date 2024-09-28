@@ -3,7 +3,7 @@
   
 # 💫 About Me
 <div align="center">
-  I'm a sophomore studying computer science at UT Austin. I love the limitless opportunities to impact others in the software space. There’s so much room to bring good while building things you love!<br>
+  I'm a student studying computer science at UT Austin. I love the limitless opportunities to impact others in the software space. There’s so much room to bring good while building things you love!<br>
 </div> 
 
 ## 🚀 What I'm Up To
