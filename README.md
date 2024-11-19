@@ -8,8 +8,9 @@
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning and learning PyTorch
-- 💻 Building mobile apps with Expo
+- 🤘🏽 Contributing to UT Registration Plus
+- 🤖 Exploring NLP and other ML things
+- 😔 Finding the motivation to continue building an app
 
 <!-- Check out my coding portfolio! -->
 
