@@ -8,9 +8,9 @@
 
 ## 🚀 What I'm Up To
 
-- 🤘🏽 Contributing to UT Registration Plus
-- 🤖 Exploring NLP and other ML things
-- 😔 Finding the motivation to continue building an app
+- 🤘🏽 contributing to UT Registration Plus
+- 🤖 exploring NLP and other ML things
+- 🕌 connecting communituies together through ![MyMosque](https://github.com/ali-vayani/MyMosque)
 
 <!-- Check out my coding portfolio! -->
 
