@@ -2,7 +2,7 @@
 
 ## about me
 <div align="center">
-  i'm currently studying computer science at UT Austin. i love software because of the limitless oppurtunities you have to make lives better. feel free to hmu @ ali.vayani@utexas.edu
+  i'm currently studying computer science at UT Austin and current swe intern @ aramco. i love software because of the limitless oppurtunities you have to make lives better. feel free to hmu @ ali.vayani@utexas.edu
 </div> 
 
 ## what i'm building (or breaking)
