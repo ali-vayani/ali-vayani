@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  i love software because of the endless ways to solve real world problems. check out what i'm building @ <a href="https://vayani.dev">vayani.dev</a> or hmu at <b>ali[dot]vayani[at]utexas[dot]edu</b>
+  i love software because of the endless ways to solve real world problems. check out what i'm building @ <a href="https://vayani.dev">vayani.dev</a> or hmu at <b>ali.vayani@utexas.edu</b>
 </p>
