@@ -1,5 +1,9 @@
 <h1 align="center">hey! i'm ali vayani</h1>
 
-<div align="center">
-  i'm currently studying computer science at UT Austin and prev. swe intern @ aramco. i love software because of the endless ways it can improve lives. check out what i'm building (or breaking) @ <a href="https://vayani.dev">vayani.dev</a> or feel free to hmu @ ali.vayani@utexas.edu
-</div> 
+<p align="center">
+  i'm a computer science student at <b>UT Austin 🤘🏽</b>, incoming swe intern at <a href="https://stripe.com/">stripe</a> and prev. swe intern at <a href="https://aramco.com/">aramco</a>. 
+</p>
+
+<p align="center">
+  i love software because of the endless ways to solve real world problems. check out what i'm building @ <a href="https://vayani.dev">vayani.dev</a> or hmu at <b>ali[dot]vayani[at]utexas[dot]edu</b>
+</p>
