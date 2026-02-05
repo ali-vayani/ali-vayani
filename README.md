@@ -1,7 +1,7 @@
 <h1 align="center">hey! i'm ali vayani</h1>
 
 <p align="center">
-  i'm a computer science student at <b>UT Austin 🤘🏽</b>, incoming swe intern at <a href="https://stripe.com/">stripe</a> and prev. swe intern at <a href="https://aramco.com/">aramco</a>. 
+  i'm a computer science student at <b>UT Austin 🤘🏽</b> and prev. swe intern at <a href="https://aramco.com/">aramco</a>. 
 </p>
 
 <p align="center">
